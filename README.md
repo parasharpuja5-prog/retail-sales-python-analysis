@@ -33,8 +33,7 @@ This project explores five key business questions:
 ```text
 retail-sales-python-project/
 │
-├── data/
-│   └── retail_sales.csv
+├── retail_sales.csv
 │
 ├── outputs/
 │   ├── revenue_by_category.png
@@ -46,10 +45,6 @@ retail-sales-python-project/
 │   └── revenue_by_region.csv
 │
 ├── analysis.py
-├── requirements.txt
-├── .gitignore
-└── README.md
-```
 
 ## 🧹 Data Cleaning and Preparation
 
