@@ -142,7 +142,7 @@ Planned improvements include:
 
 Python | Pandas | Data Cleaning | Exploratory Data Analysis | Data Visualization | KPI Calculation | Business Analysis
 
-## 👩‍💻 Author
+## 👩‍💻 Pooja Sharma
 
 Aspiring Data Analyst / Data Science Associate
 
